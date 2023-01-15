@@ -1,0 +1,39 @@
+h1 {
+    color: rgb(3, 3, 73);
+}
+
+form input {
+    width: 90px;
+}
+
+form button,
+form input {
+    border-color: darkcyan;
+}
+
+form button {
+    margin-top: 5px;
+}
+
+form label {
+    color: rgb(21, 107, 79);
+}
+
+#mensagemInicial {
+    color: rgb(4, 56, 79);
+}
+
+.success-Message,
+.unsuccess-Message {
+    display: none;
+}
+
+.success-Message {
+    color: darkgreen;
+    font-size: large;
+}
+
+.unsuccess-Message {
+    color: red;
+    font-size: large;
+}
